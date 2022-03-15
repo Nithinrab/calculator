@@ -1,8 +1,9 @@
-package com.harman.batch4;
-import java.sql.SQLOutput;
-import java.util.Scanner;
 
-public class calculator {
+package com.harman.batch4;
+        import java.sql.SQLOutput;
+        import java.util.Scanner;
+
+public class calc {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int n1,n2,result;
