@@ -3,7 +3,7 @@ package com.constructor;
 public class DemoSubclass {
    int x;
 
-    public DemoSubclass() {
-        x=120;
+    public DemoSubclass(int x) {
+        this.x = x;
     }
 }
